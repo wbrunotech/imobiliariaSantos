@@ -2,7 +2,7 @@
 
 No projeto "Imobiliária Santos", desenvolvi uma página web com foco na apresentação de imóveis de forma atrativa e funcional. 
 
-## Acesse: ()
+## Acesse: ( https://wbrunotech.github.io/imobiliariaSantos/ )
 
 Foquei na estruturação semântica do <b>HTML</b>, utilizando elementos apropriados para cada seção, como cabeçalhos, parágrafos, listas e links. Isso facilita a compreensão e manutenção do código, permitindo também que os elementos fossem adequadamente interpretados por mecanismos de busca.
 
